@@ -1,0 +1,6 @@
+19.03.25
+git init second-project //создаем второй проект 
+mk der python
+git add python/
+python3 python/main.py
+git add -A (добавляет все файлы , которые git видел до этого )
